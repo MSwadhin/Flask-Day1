@@ -1,0 +1,11 @@
+.gitignore
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+Flask_Day1.egg-info/PKG-INFO
+Flask_Day1.egg-info/SOURCES.txt
+Flask_Day1.egg-info/dependency_links.txt
+Flask_Day1.egg-info/requires.txt
+Flask_Day1.egg-info/top_level.txt
+Flask_Day1.egg-info/zip-safe

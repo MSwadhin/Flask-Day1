@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: Flask-Day1
+Version: 0.1.dev2+gb9a2364
+Summary: UNKNOWN
+Home-page: https://github.com/MSwadhin/Flask-Day1
+Author: Abdullah Al Mujahid
+Author-email: UNKNOWN
+License: MIT
+Description: UNKNOWN
+Platform: posix
+Classifier: Development Status :: 1 - Pre-Alpha
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
